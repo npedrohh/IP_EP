@@ -52,6 +52,5 @@ int main(){
     scanf("%lf", &aluno[i].listas);
   }
 
-  printf("%d alunos foram aprovados", quantos_aprovados(aluno, n));
-  
+  printf("%d alunos foram aprovados", quantos_aprovados(aluno, n)); 
 }
